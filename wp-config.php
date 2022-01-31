@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** MySQL database username */
-define( 'DB_USER', 'wordpress' );
+define( 'DB_USER', 'wordpressuser' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Fullsail1!' );
@@ -88,16 +88,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once( ABSPATH . 'wp-settings.php' );
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
